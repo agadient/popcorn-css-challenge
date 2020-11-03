@@ -3,3 +3,104 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+header {
+    padding: 60px;
+    background-color: #FFDBAA;
+    color: #553100; 
+    font-size: 60px;
+    font-family:Arial;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+  }
+
+  h1 {
+      color:#553100 
+  }
+
+  body {
+    background-color: #D4A76A; 
+  }
+
+  button {
+    background-color:#805215;
+    padding: 20px 32px;
+    text-align: center;
+    color: white;
+    border: none;
+    font-size: 30px;
+    font-family:Arial;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 3%
+}
+
+.info {
+    padding: 20px 32px;
+    margin: 3%;
+    font-size: 25px;
+    font-family:Arial;
+    border-spacing: 100px;
+    border-collapse: separate;
+}
+
+.infohead {
+    font-size: 25px;
+    font-family:Arial;
+    font-weight: bold;
+    text-align: center;   
+}
+
+.center {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.midbutton {
+    background-color:#805215;
+    padding: 20px 32px;
+    text-align: center;
+    color: white;
+    border: none;
+    font-size: 30px;
+    font-family:Arial;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 3%;
+    width: 100%
+}
+
+.white {
+    background-color: white;
+    width:25%;
+    padding: 20px 32px;
+    box-shadow: 0px 0px 36px 15px rgba(0, 0, 0, 0.28);
+}
+
+.bigwhite {
+    background-color: white;
+    font-family:Arial;
+    width:100%;
+    padding: 20px;
+    font-size: 30px;
+
+    box-shadow: 0px 0px 36px 15px rgba(0, 0, 0, 0.28);
+}
+
+.lowbutton {
+    background-color:#805215;
+    padding: 20px 32px;
+    text-align: center;
+    color: white;
+    border: none;
+    font-size: 30px;
+    font-family:Arial;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
